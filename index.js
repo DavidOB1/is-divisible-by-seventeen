@@ -32,4 +32,4 @@ function is_divisible_by_seventeen(numb) {
     return is_divisible_by_17(numb);
 }
 
-module.exports = { is_divisible_by_seventeen, is_divisible_by_17 };
+module.exports = is_divisible_by_seventeen;
