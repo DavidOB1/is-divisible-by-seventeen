@@ -1,0 +1,24 @@
+{
+    "name": "is-divisible-by-seventeen",
+    "version": "1.0.0",
+    "description": "Determines if a number is divisible by seventeen",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/DavidOB1/is-divisible-by-seventeen.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/DavidOB1/is-divisible-by-seventeen/issues"
+    },
+    "homepage": "https://github.com/DavidOB1/is-divisible-by-seventeen#readme",
+    "dependencies": {
+        "divide-remainder": "^1.0.0",
+        "is-array-buffer": "^3.0.4",
+        "is-number-one": "^0.0.1"
+    }
+}
