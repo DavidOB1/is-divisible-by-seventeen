@@ -1,5 +1,5 @@
 const { describe } = require("node:test");
-const { is_divisible_by_seventeen } = require("../index");
+const is_divisible_by_seventeen = require("../index");
 
 describe("Testing the main functionality", () => {
     it("common use cases", () => {
